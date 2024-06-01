@@ -17,10 +17,10 @@ I'm a passionate **full-stack developer **with expertise in a variety of technol
   - Tailwind CSS
 
 - **JavaScript:**
-  - Vanilla JavaScript
+  - JavaScript
   - ES6+
   - React.js
-  - Vue.js
+  
 
 - **Backend Development:**
   - MySQL
