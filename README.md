@@ -6,14 +6,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **full-stack developer **with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
+I'm a passionate software enginnerign student with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
 
 ## 🔧 Skills
 
 - **Frontend Development:**
   - HTML5
   - CSS3
-  - Bootstrap
   - Tailwind CSS
 
 - **JavaScript:**
@@ -24,7 +23,6 @@ I'm a passionate **full-stack developer **with expertise in a variety of technol
 
 - **Backend Development:**
   - MySQL
-  - PHP
   - Python
   - Node.js
 
@@ -44,12 +42,6 @@ I'm a passionate **full-stack developer **with expertise in a variety of technol
   - Designed and maintained relational databases using MySQL.
   - Developed optimized database schemas and queries for efficient data retrieval and manipulation.
 
-- **PHP:**
-  - Built server-side applications and APIs using PHP and popular frameworks like Laravel.
-
-- **Python:**
-  - Utilized Python for backend development, scripting, and automation tasks.
-  - Developed web applications, data processing scripts, and RESTful APIs using Django and Flask.
 
 - **Shell Scripting (Bash):**
   - Wrote shell scripts to automate system administration tasks, deployment processes, and data processing operations.
@@ -58,9 +50,8 @@ I'm a passionate **full-stack developer **with expertise in a variety of technol
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [email](mailto:fikertekilfu8.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-
+Feel free to reach out to me via [email](mailto:fikertekilfu8@gmail.com)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=fikertekiflu&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
 
