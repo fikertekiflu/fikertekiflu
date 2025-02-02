@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://your-image-url.com" alt="Profile Image" width="150" height="150">
   <h1>Hi there, I'm fikerte kilfu! 👋</h1>
   <p>Welcome to my GitHub profile.</p>
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate software enginnerign student with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
+I'm a passionate software engineering student with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
 
 ## 🔧 Skills
 
@@ -20,10 +19,12 @@ I'm a passionate software enginnerign student with expertise in a variety of tec
   - ES6+
   - React.js
   
+  
 
 - **Backend Development:**
   - MySQL
   - Python
+  - express nodejs
   - Node.js
 
 - **Other Technologies:**
@@ -50,7 +51,7 @@ I'm a passionate software enginnerign student with expertise in a variety of tec
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [email](mailto:fikertekilfu8@gmail.com)
+Feel free to reach out to me via [email](mailto:casssiopfiker@gmail.com)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fikertekiflu&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
