@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm fikerte kilfu! 👋</h1>
+  <h1>Hi there, I'm fikerte kiflu! 👋</h1>
   <p>Welcome to my GitHub profile.</p>
 </div>
 
@@ -22,7 +22,7 @@ I'm a passionate software engineering student with expertise in a variety of tec
   
 
 - **Backend Development:**
-  - MySQL
+  - both sql and nosql database management 
   - Python
   - express nodejs
   - Node.js
