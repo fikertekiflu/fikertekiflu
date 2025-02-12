@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm fikerte kiflu! 👋</h1>
+  <h2>Mern stack  Developer</h2>
   <p>Welcome to my GitHub profile.</p>
 </div>
 
