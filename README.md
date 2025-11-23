@@ -1,59 +1,47 @@
 <div align="center">
   <h1>Hi there, I'm fikerte kiflu! 👋</h1>
-  <h2>Mern stack  Developer</h2>
+  <h2>Passionate Full-Stack Developer</h2>
   <p>Welcome to my GitHub profile.</p>
 </div>
 
+---
+
 ## 🚀 About Me
 
-I'm a passionate software engineering student with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
+I'm a passionate software engineering student specializing in building efficient and user-friendly web applications. I love solving problems and turning complex ideas into clean, functional code.
 
-## 🔧 Skills
+---
 
-- **Frontend Development:**
-  - HTML5
-  - CSS3
-  - Tailwind CSS
+## 🔧 Core Skills
 
-- **JavaScript:**
-  - JavaScript
-  - ES6+
-  - React.js
-  
-  
+### Frontend 🌐
+* **Primary Frameworks:** React.js, Next.js (SSG/SSR)
+* **Styling:** Tailwind CSS, CSS3, HTML5
+* **Language:** JavaScript (ES6+)
 
-- **Backend Development:**
-  - both sql and nosql database management 
-  - Python
-  - express nodejs
-  - Node.js
+### Backend & Server ⚙️
+* **Main Stack:** Node.js, Express.js
+* **Emerging Language:** Golang (Junior Level)
 
-- **Other Technologies:**
-  - Git
-  - Shell Scripting (Bash)
+### Database & Data Management 💾
+* **NoSQL:** MongoDB
+* **SQL:** MySQL, PostgreSQL
+* **Tools:** Git, Shell Scripting (Bash)
 
-## 💼 Experience
+---
 
-- **HTML/CSS/Bootstrap/Tailwind:**
-  - Developed responsive and visually appealing web interfaces using HTML, CSS, Bootstrap, and Tailwind CSS.
+## 💼 Experience Highlights
 
-- **JavaScript:**
-  - Created interactive web applications using vanilla JavaScript and modern frameworks like React.js and Vue.js.
+* **Modern Frontend:** Developed high-performance, responsive interfaces using **React.js** and **Next.js**.
+* **API Development:** Built and maintained RESTful APIs with **Node.js** and **Express.js**.
+* **Database Management:** Proficient in designing schemas and optimizing queries for both relational (SQL) and non-relational (NoSQL) databases.
 
-- **MySQL:**
-  - Designed and maintained relational databases using MySQL.
-  - Developed optimized database schemas and queries for efficient data retrieval and manipulation.
+---
 
-
-- **Shell Scripting (Bash):**
-  - Wrote shell scripts to automate system administration tasks, deployment processes, and data processing operations.
-
-
-
-## 📫 Contact Me
+## 📫 Connect with Me
 
 Feel free to reach out to me via [email](mailto:casssiopfiker@gmail.com)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fikertekiflu&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
-
